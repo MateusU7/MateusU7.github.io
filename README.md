@@ -1,4 +1,3 @@
-# Mateus's Résumé
 <!DOCTYPE html>
     <html>
 <head>
