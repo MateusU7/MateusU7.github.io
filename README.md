@@ -15,7 +15,7 @@
         };
     </script>
 </head>
-<body>
+<body bgcolor="28333e">
  <div class="leftDiv">
       <div id = "stepsId" > 
         <ol>
