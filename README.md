@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
     <script>
         window.onload = function(){
@@ -28,4 +26,3 @@
       </div>
     </div>
 </body>
-</html>
