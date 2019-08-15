@@ -1,4 +1,9 @@
 <head>
+    <style>
+        body {
+            background-color: #28333e;
+        }
+    </style>
     <script>
         window.onload = function(){
           var x = document.getElementById("li1");
@@ -15,7 +20,7 @@
         };
     </script>
 </head>
-<body bgcolor="28333e">
+<body>
  <div class="leftDiv">
       <div id = "stepsId" > 
         <ol>
