@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-    <html>
+<html>
 <head>
     <script>
         window.onload = function(){
