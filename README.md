@@ -7,13 +7,13 @@
     <script>
         window.onload = function(){
           var x = document.getElementById("li1");
-          x.style.color = "blue";
+          x.style.color = "black";
           function changeColor(){
-            if (x.style.color == "blue"){
-                x.style.color = "yellow";
+            if (x.style.color == "black"){
+                x.style.color = "green";
             }
-            else if (x.style.color == "yellow"){
-                x.style.color = "blue";
+            else if (x.style.color == "green"){
+                x.style.color = "black";
             }
           };
           window.setInterval(changeColor,1000);
