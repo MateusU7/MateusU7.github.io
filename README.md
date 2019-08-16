@@ -16,7 +16,7 @@
                 x.style.color = "black";
             }
           };
-          window.setInterval(changeColor,750);
+          window.setInterval(changeColor,1000);
         };
     </script>
 </head>
